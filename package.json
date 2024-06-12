@@ -1,5 +1,5 @@
 {
-  "name": "tea-tt-sha",
+  "name": "tea-tt-sha2",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -8,10 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dchaley26/tea.git"
+    "url": "https://github.com/dchaley26/tea-tt-sha2.git"
   },
   "dependencies": {
-    "classnames": "^2.3.1"
+    "classnames": "^2.3.1",
+    "tea-tt-sha": "1.0.1"
   },
   "author": "",
   "license": "ISC"
